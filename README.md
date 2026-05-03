@@ -2,7 +2,13 @@
 
 This is a web application built with Python that allows you to upload and edit images using various filters. It uses **Streamlit** for the user interface and **OpenCV** for the image processing.
 
-![App Screenshot](screenshot.png)
+## 📸 Screenshots
+
+### Landing Page
+![Landing Page](Landing%20page.png)
+
+### Image Editing Page
+![Image Editing Page](image%20editing%20page.png)
 
 ---
 
