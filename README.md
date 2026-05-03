@@ -14,7 +14,7 @@ This is a web application built with Python that allows you to upload and edit i
 
 ## 📽️ Demo Video
 Check out the app in action:
-[Link to Demo Video](https://drive.google.com/file/d/1VhfvbxFnbKwOsTMTGY3EXZW1c9EP0u5c/view?usp=drive_link)
+[Demo Video](https://drive.google.com/file/d/1VhfvbxFnbKwOsTMTGY3EXZW1c9EP0u5c/view?usp=drive_link)
 
 ---
 
