@@ -1,0 +1,20 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.env
+
+# Streamlit
+.streamlit/
+
+# IDE files
+.vscode/
+.idea/
+
+# Local data/temp files
+*.log
+.DS_Store
